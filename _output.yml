@@ -1,0 +1,8 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      before: |
+        <li><a href="./">Mangroves Science</a></li>
+      after: |
+        <li><a href="https://mangrovescience.org/"</a></li>
